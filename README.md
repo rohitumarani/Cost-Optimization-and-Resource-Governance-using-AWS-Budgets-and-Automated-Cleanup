@@ -10,7 +10,7 @@ This project demonstrates how to reduce unnecessary AWS costs by:
 - Sending notification emails using SNS
 ---
 Architecture Digram :
-![](./images/ChatGPT%20Image%20Mar%2012,%202026,%2001_21_22%20AM.png)
+![](./images/Architecture.jpeg)
 ---
 
 # 🧾 Step 1: Create AWS Budget
