@@ -193,8 +193,6 @@ Steps:
 
 Screenshot :
 ![](./images/Topic.png)
-
-![](./images/Subscirption.png)
 ---
 
 ## 📊 Cost Optimization Strategy
