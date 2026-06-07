@@ -90,7 +90,7 @@ Unused Elastic IPs generate cost if not attached to any instance.
 ![Unused Elastic IP](./images/EIp.png)
 ---
 
-# ⚙️ Step 3: Automate Cleanup Using Lambda
+## ⚙️ Step 3: Automate Cleanup Using Lambda
 
 To automatically clean unused resources we created a Lambda function.
 
@@ -206,6 +206,7 @@ This project implements the following cost optimization practices:
 * Logging using CloudWatch
 
 screenshot :
+
 ![](./images/email.jpeg)
 
 ---
